@@ -1,0 +1,23 @@
+# 参考资料
+
+* [CISA | 什么是CISA(信息系统审计师认证)? - 知乎](https://zhuanlan.zhihu.com/p/35080438)
+* [History of ISACA | Global Business & Technology Community | ISACA](https://www.isaca.org/why-isaca/about-us/history)
+* [一文读懂CISA认证 | 薪资最高证书之一 - 知乎](https://zhuanlan.zhihu.com/p/145805627)
+* [CISA | 什么是CISA(信息系统审计师认证)? - 知乎](https://zhuanlan.zhihu.com/p/35080438)
+* [CISP与CISM有什么区别，CISP和CISM证书权威性如何？ - 知乎](https://zhuanlan.zhihu.com/p/61976384)
+* [CISP/CISM证书维持办法 - 【官网】国家信息安全水平考试NISP——NISP全国运营中心](https://www.nisphome.cn/article-detail?id=231)
+* [DDOS 攻击的防范教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/06/ddos.html)
+* [Web application firewall - Wikipedia](https://en.wikipedia.org/wiki/Web_application_firewall)
+* [拒绝服务攻击 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E9%98%BB%E6%96%B7%E6%9C%8D%E5%8B%99%E6%94%BB%E6%93%8A)
+* [Denial-of-service attack - Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack#Defense_techniques)
+* [Cyberattack - Wikipedia](https://en.wikipedia.org/wiki/Cyberattack#Types_of_attack)
+* [网络攻击 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB)
+* [cdn 真实ip_百度搜索](https://www.baidu.com/s?wd=cdn%20%E7%9C%9F%E5%AE%9Eip)
+* [游戏盾_分布式DDoS防护系统 - 阿里云](https://cn.aliyun.com/product/GameShield)
+* [什么是游戏盾 - 产品简介| 阿里云](https://www.alibabacloud.com/help/zh/doc-detail/65033.htm)
+* [核心原理_产品简介_游戏盾-阿里云](https://help.aliyun.com/document_detail/128678.html)
+* [产品架构_产品简介_游戏盾-阿里云](https://help.aliyun.com/document_detail/65034.html)
+* [云防御_高防CDN_高防服务器_游戏盾_极御云安全](https://www.stopddos.cn)
+* [零基础如何学习 Web 安全？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/21606800)
+* [什么是 Web 应用防火墙 (WAF)？| 术语 | F5](https://www.f5.com/zh_cn/services/resources/glossary/web-application-firewall)
+* 
