@@ -1,5 +1,7 @@
 # 参考资料
 
+* [Web安全攻防流程和常用概念 | ProcessOn免费在线作图](https://www.processon.com/view/link/60b9f1b3f346fb5e0b2007bc)
+* 
 * [CISA | 什么是CISA(信息系统审计师认证)? - 知乎](https://zhuanlan.zhihu.com/p/35080438)
 * [History of ISACA | Global Business & Technology Community | ISACA](https://www.isaca.org/why-isaca/about-us/history)
 * [一文读懂CISA认证 | 薪资最高证书之一 - 知乎](https://zhuanlan.zhihu.com/p/145805627)
@@ -20,4 +22,12 @@
 * [云防御_高防CDN_高防服务器_游戏盾_极御云安全](https://www.stopddos.cn)
 * [零基础如何学习 Web 安全？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/21606800)
 * [什么是 Web 应用防火墙 (WAF)？| 术语 | F5](https://www.f5.com/zh_cn/services/resources/glossary/web-application-firewall)
+* [为什么要换掉传统Web应用防火墙 (WAF) ？ - 安全内参 | 决策者的网络安全知识库 (secrss.com)](https://www.secrss.com/articles/28466)
+* [Application firewall - Wikipedia](https://en.wikipedia.org/wiki/Application_firewall)
+* [Web application firewall - Wikipedia](https://en.wikipedia.org/wiki/Web_application_firewall)
+* [360浏览器：中国为什么没有自主研发的浏览器内核？|浏览器|360|自主研发_新浪科技_新浪网 (sina.com.cn)](https://tech.sina.com.cn/it/2018-08-18/doc-ihhvciix1760188.shtml)
+* [用户研究之「用户画像」的建立 | 产品壹佰 (chanpin100.com)](http://www.chanpin100.com/article/102533)
+* [【绿盟大讲堂】渗透测试流程解析 – 绿盟科技技术博客](http://blog.nsfocus.net/penetration-test-class/)
+* [未知的未知：九大模糊测试工具 - 安全牛](https://www.aqniu.com/tools-tech/65203.html)
+* [谷歌开源模糊测试工具 ClusterFuzz 尝鲜记录 (进行中) · TesterHome](https://testerhome.com/topics/18171)
 * 

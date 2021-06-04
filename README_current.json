@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v0.8",
-  "lastUpdate": "20210603",
+  "latestVersion": "v0.9",
+  "lastUpdate": "20210604",
   "gitRepoName": "avoid_hacker_attack_web_security",
   "bookName": "防止被黑客攻击：Web安全",
   "bookDescription": "学习Web安全，以防止被黑客攻击。先对Web安全进行概述，且给出常见问题和解释，包括Web安全对比网络安全、Web安全对比渗透测试；再解释网络攻击，包括常见的DoS和DDoS，以及DDoS的防护方法；整理相关工具和系统，包括WAF、安全操作系统Kali、网络分析工具包括Wireshark、Capsa Free、Zenoss Core、NetworkMiner、The Dude、Angry IP Scanner、Nimbus Threat Monitor等；以及代码审计工具CxEnterprise、Armorize CodeSecue、Fortify、RIPS等；再整理证书相关内容，包括安全证书，如CISP、CISM、CISAW、CCSRP、CISSP等，以及网络证书，如CCIE、CCNA、CCNP等，以及其他证书，如CISA、CDP、CompTIA A +、MCSA、MTA、Oracle、PMP等；总结了安全相关标准，比如信息系统安全等级保护、ISO27001等；以及安全组织，比如OWASP等；最后给出参考资料。"
