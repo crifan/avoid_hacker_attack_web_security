@@ -1,6 +1,61 @@
 # 其他证书
 
-## `CISA`=`国际信息系统审计师`
+## `ITIL`=`信息技术基础设施库`
+
+* `ITIL`=`Information Technology Infrastructure Library`=`信息技术基础设施库`
+  * 是什么：一个国际通用的IT服务管理方面的认证
+    * a IT management framework
+  * 作用：帮助每个企业的IT部门完善流程，实现规范化、精细化运作
+    * 提供了`ITSM`
+      * `ITSM`=`IT Service Management`=`信息技术服务管理`
+  * 概述
+    * 由`英国商务部`于上个世纪80年代末发展的一套IT服务管理最佳实践指南，它由一系列出版物、各种资格认证及一个国际用户组织（`itSMF`）支持
+      * `OGC`=`Office of Government Commerce`=`英国商务部`
+    * ITIL致力于协助组织机构建立IT服务管理架构，已经成为全球范围内用得最广泛的IT服务管理最佳实践
+    * ITIL自上世纪八十年代开始发展，经过行业专家、顾问和实施者的共同努力，已经成为IT服务管理领域最佳实践事实上的国际标准
+      * ITIL经过40年的发展，已经成为IT服务管理领域最好的国际标准
+    * ITIL是一种全新的、基于流程的IT管理模式，可快速帮助企业IT部门从职能/后勤部门转型为服务部门，并实现规范、精细、可量化的IT管理，提供可保证的IT服务质量
+  * 特点
+    * 这个认证站的高度比较高，一般都是倾向管理者的，站在全局的角度考虑自己权限范围内的IT建设的
+  * 现状
+    * 这个证书目前在外企(欧美企业)中比较流行，特别是大型制造型企业
+      * 如果你经常上51JOB之类的招聘网站的话，你会发现`ITIL`在欧美的外企中要求的特别多
+    * 全球10,000 多家在各行业处于领先地位的组织都在使用ITIL流程改进IT服务的效率和沟通，大量的成功实践表明实施ITIL可以大幅度提高IT部门营运效率，提高IT组织服务质量
+    * 在过去的15 年里，每一次ITIL 的更新对产品和服务支持的内容、质量、以及提供服务的供应商都产生了很大的影响
+    * 有这个证书，对于想进外企的人来说，就是一个敲门砖
+    * 即使你成为企业的管理者，或者IT部门负责人都是需要ITIL证书的
+  * 历史 & 更新
+    * 2000：`ITIL 2`=`ITIL v2`
+      * 更侧重过程process
+    * 2007：`ITIL 3`=`ITIL v3`
+      * 2011：小更新
+        * 又称：`ITIL 2011 V3`
+    * 2019：`ITIL 4`=`ITIL v4`
+  * 级别
+    * `ITIL v3`
+      * 5个等级
+        * `ITIL Foundation`=`ITIL基础认证`
+          * 获取其他证书的基础，是对ITIL入门者的核心基础认证
+            * 只有考取了ITIL foundation证书才能考取更高等级的证
+          * 适用于：从事IT服务管理的人员
+            * 要求他们了解IT服务管理的和IT基础设施的重要性，掌握服务管理的流程及相互间接口，ITIL的基本概念，ITIL中的十大流程以及各流程之间的关
+        * `ITIL Practitioner`=`ITIL从业者认证`
+          * 该证书主要是针对从事IT服务管理特定流程的人员，要求其具有一定实践经验
+            * 也就是说考取该证书，需要报考人员有IT方面的实践经验。
+        * `ITIL Intermediate`=`ITIL中级认证`
+        * `ITIL Expert`=`ITIL专家认证`
+        * `ITIL Master`=`ITIL大师认证`
+          * 最高级别
+    * `ITIL v4`
+      * 4个等级
+        * `ITIL Foundation`
+        * `ITIL Managing Professional`=`ITIL MP`=`ITIL职业经理人`
+        * `ITIL Strategic Leader`=`ITIL SL`=`ITIL战略领导者`
+        * `ITIL Master`=`ITIL大师认证`
+      * 不同等级之间的关系
+        * ![itil_4_levels](../assets/img/itil_4_levels.png)
+
+## `CISA`=`注册信息系统审计师`
 
 * `CISA`=`Certified Information Systems Auditor`=`注册信息系统审计师`
   * 别称
@@ -32,6 +87,39 @@
     * 中国获得CISA认证的审计师分布在银行、证券、政府、高端制造业、信息服务业等高端行业内，越来越受到国内各大企事业单位认可
     * 据Global Knowledge预计，到2020年，CISA证书持有者的平均收入将达到132278美元
     * Global Knowledge发现，证书持有者的平均年龄为46.9岁，从事IT审计工作，通常持有3.3个证书
+
+## 红帽RedHat
+
+### `RHCE`=`红帽认证工程师` 和 `RHCT`=`红帽认证技师`
+
+* `RHCE`=`Red Hat Certified Engineer`=`红帽认证工程师`
+  * 是什么：指具备以下能力的`红帽认证系统管理员`=`RHCSA`
+    * 自动化红帽企业Linux任务
+    * 集成红帽新兴技术
+    * 实施自动化来提高效率、促进创新
+  * 注意
+    * 要想获得`RHCE`认证，需要先满足红帽认证系统管理员 (RHCSA) 的要求，然后再通过红帽认证工程师 (RHCE) 考试 (EX300) 才可获得
+  * RHCE考试
+    * `RHCE`和`RHCT`是以实际操作能力为基础的测试项目，主要考察考生在现场系统中的实际能力
+    * 考试内容
+      * 第一部分：故障排除和系统维护
+        * 时间：2个半小时
+      * 第二部分：安装和配置
+        * 时间：3个小时
+  * 相关
+    * 版本
+      * RHCE 7版本
+      * RHCE 8版本
+
+### `RHCSA`、`RHCE`、`RHCA`
+
+* RHCSA、RHCE、RHCA
+  * 名词
+    * `RHCA`=红帽认证`架构师`
+    * `RHCE`=红帽认证`工程师`
+    * `RHCSA`=红帽认证`系统管理员`
+  * 阶梯架构
+    * ![rhcsa_rhce_rhca](../assets/img/rhcsa_rhce_rhca.png)
 
 ## `CDP`=`Certified Data Professional`=`数据专业认证`
 

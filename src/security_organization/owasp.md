@@ -5,9 +5,13 @@
     * =`Open Web Application Security Project`
     * =`开源Web应用安全项目`
     * =`开源Web应用安全组织`
-* 中文主页
-  * Welcome to OWASP CHINA — OWASP-CHINA
-    * http://www.owasp.org.cn
+* 主页
+  * 中文
+    * Welcome to OWASP CHINA — OWASP-CHINA
+      * http://www.owasp.org.cn
+  * 英文
+    * OWASP Foundation | Open Source Foundation for Application Security
+      * https://owasp.org/
 
 ## OWASP 10
 

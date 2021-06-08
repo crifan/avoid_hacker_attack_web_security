@@ -33,7 +33,7 @@
         * `深度包检测`
       * 程序行为监视
       * 防护设备
-        * 防火墙
+        * `防火墙`
           * `WAF`=`Web应用程序防火墙`
         * `IDS`=`Intrusion Detection Systems`=`入侵检测系统`
         * `IPS`=`Intrusion Prevention Systems`=`入侵防御系统`
